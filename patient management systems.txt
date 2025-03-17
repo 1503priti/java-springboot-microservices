@@ -1,0 +1,7 @@
+patient managment system:
+https://www.youtube.com/watch?v=tseqdcFfTUY
+
+when u add h2 databse in pom.xml and added the datbase properties in application.properties file and run then we need to comment the postgres databaase in pom.xml
+http://localhost:4000/h2-console/login.jsp?jsessionid=4e9ac415411bbabcd3423a4ae7acdb11
+
+hjdbc.url=jdbc:h2:mem:testdb
